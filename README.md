@@ -7,4 +7,4 @@ A simple example of **Socket programming** and **Multithreading** in **Java** fo
 ### Running the Application:
 1. Run the *MultiServerMain.java* on the terminal of the Server i.e the device from which you want to monitor the other devices in the LAN. The monitored results will be shown on this device itself.
 1. Make sure that all the devices to be monitored are on the same network.
-1. Run the *Client.java* on all the other devices which are to be monitored. 
+1. Run the *Client.java* on all the other devices which are to be monitored. Also make sure that you change the IP and the port number accordingly where the *MultiServerMain.java* is running by default it is set to Localhost.
